@@ -1,0 +1,14 @@
+{
+  "name": "seleniumapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Lebioda",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}
